@@ -101,7 +101,7 @@
             Me.menuDevoluciones.DropDownItems(1).Enabled = False
         End If
 
-       
+
 
     End Sub
     '------------------------------------------------------------------------------------------------------
@@ -113,7 +113,7 @@
         Me.lblDatosSesion.Text = "Usuario: " + CStr(Sesion.getIdUsuario()) + "-" + Sesion.getApellidoUsu() + " " + Sesion.getNombreUsu() + "-" + CStr(Sesion.getDniUsuario())
     End Sub
 
-   
+
     Private Sub subItemNuevoProd_Click(sender As Object, e As EventArgs) Handles subItemNuevoProd.Click
         Dim pestaniaNuevoProducto As Byte
         pestaniaNuevoProducto = 1
@@ -184,8 +184,8 @@
         ModGlobal.seleccionarTabControl(frmGestionarUsuariosAdm.tbcUsuarios, modificarDatosPropios, Me, frmGestionarUsuariosAdm)
     End Sub
 
-   
-  
+
+
 
     Private Sub subItemEliminarDev_Click(sender As Object, e As EventArgs) Handles subItemEliminarDev.Click
         Dim estadisticasDev As Byte
@@ -227,3 +227,4 @@
         ModGlobal.moverseEntreVentana(Me, frmDevolucionesEmp)
     End Sub
 End Class
+'probando si funciona
