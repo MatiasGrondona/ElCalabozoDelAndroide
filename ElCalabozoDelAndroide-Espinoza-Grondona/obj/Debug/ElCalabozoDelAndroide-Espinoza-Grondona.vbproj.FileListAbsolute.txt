@@ -1,0 +1,37 @@
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmDevolucionesEmp.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarDevolucionesAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarInformesAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarProductosAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarUsuariosAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarVentasAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmInicioSesion.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaRespaldo.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaVentasEmp.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaInicialAdm.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.Resources.resources
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.vbproj.GenerateResource.Cache
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\bin\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.exe.config
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\bin\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.exe
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\bin\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.pdb
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\bin\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.xml
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.exe
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.xml
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.pdb
+D:\Trabajos Taller De Programacion 2\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.vbprojResolveAssemblyReference.cache
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.vbprojAssemblyReference.cache
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmDevolucionesEmp.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarDevolucionesAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarInformesAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarProductosAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarUsuariosAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmGestionarVentasAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmInicioSesion.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaRespaldo.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaVentasEmp.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.frmVentanaInicialAdm.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide_Espinoza_Grondona.Resources.resources
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.vbproj.GenerateResource.cache
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.vbproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.exe
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.xml
+C:\Users\matia\Desktop\ElCalabozoDelAndroide-Espinoza-Grondona\ElCalabozoDelAndroide-Espinoza-Grondona\obj\Debug\ElCalabozoDelAndroide-Espinoza-Grondona.pdb
